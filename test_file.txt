@@ -3,3 +3,4 @@ Wildlife:
 - seals
 - baboons
 - nudibranch
+- whales
